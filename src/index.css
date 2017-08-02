@@ -1,0 +1,26 @@
+strong, b {
+    font-weight: bold;
+}
+i, cite, em, var, address, dfn {
+    font-style: italic;
+}
+u, ins {
+    text-decoration: underline;
+}
+.on_button_submit {
+    text-align: -webkit-center;
+    text-align: center;
+}
+#justHtml {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  display: none;
+  margin: 0px;
+  padding: 20px;
+  height: 120px;
+  background-color: white;
+  border-radius: 5px;
+  overflow: auto;
+  border: 10px solid white;
+  margin-top:10px;  
+}
